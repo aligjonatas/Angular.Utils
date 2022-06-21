@@ -1,5 +1,5 @@
 # Angular.Utils
-Utilitários Angular
+Utilitários de validação Angular (CTe, NFe, Maior idade, CPF e CNPJ)
 
 # Validadores de documentos 
 * Validação de CNPJ: cnpj.validator.ts
